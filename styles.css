@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+}
+
+.divs {
+    background-color: black;
+    width: 56px;
+    height: 56px;
+}
+
+.colored-divs {
+    background-color: lightgreen;
+    width: 56px;
+    height: 56px;
+}
